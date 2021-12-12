@@ -1,0 +1,22 @@
+#cover-image{
+    background-image: url(../images/itzy_logo.PNG); 
+    /* Full height */
+    width: 600px;
+    text-align: center;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: rgb(186, 171, 255) solid 5px;
+}
+#middle-img{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 400px;
+    height: auto;
+    border: rgb(224, 224, 224) solid 5px;
+}
+#name_table{
+    width: 50%;
+    margin-left: 50%;
+}
